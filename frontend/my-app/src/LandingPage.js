@@ -2,7 +2,7 @@ import SideBar from "./SideBar"
 import MainBox from "./MainBox"
 import './index.css';
 
-const LandingPage = () => {
+const LandingPage = () => {    
     return <div id="page">
         <SideBar/>
         <MainBox/>
